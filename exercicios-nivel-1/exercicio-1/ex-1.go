@@ -5,8 +5,8 @@ import (
 )
 
 func main() {
-	x := 42
-	y := "james bond"
+	x := 25
+	y := "clinton"
 	z := true
 
 	fmt.Println(x, y, z, '\n')
