@@ -30,12 +30,12 @@ Crie um programa que:
 - Desloque os bits dessa variável 1 para a esquerda, e atribua o resultado a outra variável
 - Demonstre esta outra variável em decimal, binário e hexadecimal
 
-# Exercício #5
+## Exercício #5
   
   - Crie uma variável de tipo string utilizando uma raw string literal.
 Demonstre-a.
 
-# Exercício #6
+## Exercício #6
 
 - Utilizando iota, crie 4 constantes cujos valores sejam os próximos 4 anos.
 Demonstre estes valores.
